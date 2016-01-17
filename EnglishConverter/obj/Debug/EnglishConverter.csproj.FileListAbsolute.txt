@@ -1,0 +1,32 @@
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.exe.config
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\MainWindow.baml
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\App.g.cs
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter_MarkupCompile.cache
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.g.resources
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.Properties.Resources.resources
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.csproj.GenerateResource.Cache
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\englishVersie2.docx
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.exe
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.pdb
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\bin\Debug\DocX.dll
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.exe
+C:\Users\Titaantje\OneDrive\Pxl\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.pdb
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.exe.config
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.exe
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.pdb
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\englishVersie2.docx
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.exe
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\EnglishConverter.pdb
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\bin\Debug\DocX.dll
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.csprojResolveAssemblyReference.cache
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\MainWindow.baml
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\MainWindow.g.cs
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\App.g.cs
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter_MarkupCompile.cache
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.g.resources
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.Properties.Resources.resources
+C:\Users\Titaantje\Documents\Visual Studio 2015\Projects\EnglishConverter\EnglishConverter\obj\Debug\EnglishConverter.csproj.GenerateResource.Cache
